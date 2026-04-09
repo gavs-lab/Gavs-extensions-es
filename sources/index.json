@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mangaoni",
+    "name": "MangaOni",
+    "lang": "es",
+    "version": "1.0.0",
+    "script": "https://raw.githubusercontent.com/gavs-lab/Gavs-extensions-es/main/sources/mangaoni.js"
+  },
+  {
+    "id": "megabanana",
+    "name": "MegaBanana Comics",
+    "lang": "es",
+    "version": "1.0.0",
+    "script": "https://raw.githubusercontent.com/gavs-lab/Gavs-extensions-es/main/sources/megabanana.js"
+  }
+]
